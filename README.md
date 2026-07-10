@@ -178,6 +178,23 @@ capping each container at 100MB per file with 3 rotating files (300MB total max)
 
 ---
 
+## 📊 Engineering Activity
+
+Since the source repository is private, GitHub's public contribution graph doesn't
+reflect this work. These numbers are pulled directly from the private repo's own
+git history:
+
+- **Commits:** 202 (of ~700 across all contributors)
+- **Active period:** 2020-10-23 – 2026-07-06
+- **Lines changed:** +256,024 / -990 *(excludes vendored Hyrax/FITS/ExifTool assets and
+  lockfiles — the raw diff is skewed by ~750K lines of bundled third-party tooling)*
+- **Commit distribution:** concentrated in the 2020 initial build (33 commits) and a
+  2025–2026 infrastructure stabilization push (154 commits) — see
+  [Challenges & Engineering Wins](#-challenges--engineering-wins) above for what that
+  push covered
+
+---
+
 ## 👤 My Specific Contributions
 
 This project was built by a cross-functional team of four engineers, a UX designer, and a Project Manager. The UX designer led primary research, developed personas and user journeys, and informed the information architecture. The Project Manager used an agile methodology to coordinate delivery across phases.
